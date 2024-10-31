@@ -1,0 +1,23 @@
+{
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Beautiful Dracula Normal",
+    "code-runner.runInTerminal": true,
+ "terminal.integrated.profiles.windows": {
+    "Bash": {
+      "path": "C:\\Program Files\\Git\\git-bash.exe",
+      "args": ["-1"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Custom Init",
+"diffEditor.hideUnchangedRegions.enabled": true,
+"configurations": [
+  {
+    "type": "java",
+    "name": "KalkulatorKeuanganHarian",
+    "request": "launch",
+    "mainClass": "KalkulatorKeuanganHarian",
+    "projectName": "PROGLAN SEMESTER 3_1c60565f"
+  }
+],
+}
